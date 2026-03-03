@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Sujan K C",
+    "tagline": "Full-Stack Developer | Problem Solver | Tech Enthusiast",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email"
+  },
+  "about": {
+    "heading": "About Me",
+    "text": "I am a Computer Science student at Dayananda Sagar University with a passion for full-stack development, problem-solving, and building impactful projects. Skilled in Python, Java, React, Node.js, and AWS, I enjoy creating solutions that combine technical expertise with creativity."
+  },
+  "skills": {
+    "heading": "Skills",
+    "list": [
+      "Python",
+      "Java",
+      "Data Structures & Algorithms",
+      "OOPS",
+      "HTML, CSS, JavaScript",
+      "Node.js",
+      "React",
+      "MySQL",
+      "Git & GitHub",
+      "AWS",
+      "Client Communication",
+      "Requirements Gathering",
+      "Problem-Solving",
+      "Technical Support",
+      "Project Management"
+    ]
+  },
+  "experience": {
+    "heading": "Experience",
+    "list": [
+      "Discord Bot Developer (Freelance, 2021–2022): Developed and deployed custom Discord bots for moderation, community management, and entertainment.",
+      "Leveraged Discord.py for API interaction, implemented custom commands and automated moderation.",
+      "Collaborated with clients to gather requirements and provide technical support."
+    ]
+  },
+  "education": {
+    "heading": "Education",
+    "list": [
+      "B.Tech in Computer Science, Dayananda Sagar University, Bengaluru (2022–2026), CGPA: 7.05",
+      "PUC (12th Grade), S.B.R.R. Mahajana Pre-University College, Mysuru (2020–2022), Percentage: 92.3%",
+      "SSLC (10th Grade), Vijaya Vittala Vidyashala, Mysuru (2017–2020), Percentage: 98.8%"
+    ]
+  },
+  "projects": {
+    "heading": "Projects",
+    "list": [
+      "Fake News Prediction: Built ML models (Logistic Regression, SVM) to classify news articles as real or fake. (02/2024)",
+      "Hotel Website: Responsive frontend using HTML5, CSS3, JavaScript. (12/2023)",
+      "Personal Portfolio Website: Responsive React + Vite portfolio with Framer Motion animations and contact form. (05/2025 – ongoing)"
+    ]
+  },
+  "certifications": {
+    "heading": "Certifications & Awards",
+    "list": [
+      "Udemy - Full-Stack Web Development Bootcamp (07/2024)",
+      "Apna College - Alpha DSA with Java (09/2023)",
+      "Cyber Security Ideathon - 2nd Place, DSU (12/2022)"
+    ]
+  },
+  "contact": {
+    "heading": "Contact Me",
+    "email": "Email",
+    "phone": "Phone",
+    "resume": "Download Resume"
+  }
+}
